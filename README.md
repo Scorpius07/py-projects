@@ -23,7 +23,7 @@ Let's play the simplest game we all have learnt in our childhood! Rock, Paper an
 # Fibonacci-Sequence
 Have you heard about [Fibonacci Numbers/Sequence](https://en.wikipedia.org/wiki/Fibonacci_number)? I built a python program to literally get any Fibonacci sequence number! :)
 
-##FAQs
+##FAQs##
 
 ❄ **What is way 1?**
 - Let's say that you want the 5th fibonacci number instantly or the 15th one. In this case, you should use way 1.
